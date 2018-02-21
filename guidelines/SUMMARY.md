@@ -36,4 +36,3 @@
 * [Conferences](#conferences)
 * [Contributing](#contributing)
 * [License](#license)
-
